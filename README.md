@@ -10,10 +10,10 @@
 * **ชื่อ-สกุล ผู้จัดทำ:** นายอภิรักษ์ สงแจ้งใหญ่ (Aphirak Songjangyai)
 * **รหัสนักศึกษา:** `66081358`
 * **วิชา:** CSI301 การพัฒนาสมาร์ตคอนแทร็กต์ (Smart Contract Development)
-* **Contract Address:** `0x6990636d74eaba15c5d59db64a63de707b0399c2`
-* **Etherscan Verified URL:** [https://sepolia.etherscan.io/address/0x6990636d74eaba15c5d59db64a63de707b0399c2#code](https://sepolia.etherscan.io/address/0x6990636d74eaba15c5d59db64a63de707b0399c2#code)
-* **GitHub Repository:** [https://github.com/aunteeneiei/Exam301-L-66081358](https://github.com/aunteeneiei/Exam301-L-66081358)
-* **Live GitHub Page:** [https://aunteeneiei.github.io/Exam301-L-66081358/](https://aunteeneiei.github.io/Exam301-L-66081358/)
+* **Contract Address:** `0xa0Bc91cE812D2C03cf39633Dbd1A2D6bBa4d9Ee6`
+* **Etherscan Verified URL:** [https://sepolia.etherscan.io/address/0xa0Bc91cE812D2C03cf39633Dbd1A2D6bBa4d9Ee6#code](https://sepolia.etherscan.io/address/0xa0Bc91cE812D2C03cf39633Dbd1A2D6bBa4d9Ee6#code)
+* **GitHub Repository:** [https://github.com/aunteeneiei/Exam031-L-66081358](https://github.com/aunteeneiei/Exam031-L-66081358)
+* **Live GitHub Page:** [https://aunteeneiei.github.io/Exam031-L-66081358/](https://aunteeneiei.github.io/Exam031-L-66081358/)
 
 ---
 

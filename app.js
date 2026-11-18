@@ -1,5 +1,5 @@
 // SmartLiving Property Management DApp Controller
-const CONTRACT_ADDRESS = "0x6990636d74eaba15c5d59db64a63de707b0399c2";
+const CONTRACT_ADDRESS = "0xa0Bc91cE812D2C03cf39633Dbd1A2D6bBa4d9Ee6";
 let CONTRACT_ABI = null;
 
 let provider;
